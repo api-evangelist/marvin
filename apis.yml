@@ -34,7 +34,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://cdn.prod.website-files.com/691268765f23b8bede3ff463/69288f8ced31fe147c9187a3_marvin-favicon.png
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 x-enrichment:
