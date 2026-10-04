@@ -56,7 +56,7 @@ x-enrichment:
 tags:
 - Company
 - Fintech
-- Financial-Services
+- Financial Services
 - Payments
 - Receivables
 - Collateral Management
@@ -71,6 +71,7 @@ tags_raw:
 - Collateral Management
 - B2B
 - Brazil
+- Financial-Services
 apis: []
 common:
 - type: DomainSecurity
